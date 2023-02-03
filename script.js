@@ -9,3 +9,4 @@ function funcall(){
 	}
     else alert("write something")
 	document.getElementById("newTodoInput").value=""
+}
